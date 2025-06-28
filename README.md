@@ -36,6 +36,15 @@ This repository serves as a centralized and verifiable showcase of my completed 
 * **Verification:**
     * [Verify Digital Badge on Credly](https://www.credly.com/badges/ba48b964-1ba9-4319-92fe-92f327a2d47d/public_url)
 
+## Language Proficiency & Academic Achievements
+
+### 1. TOEFL (Test of English as a Foreign Language) - [MAY 2025]
+* **Description:** The TOEFL iBT (Internet-based Test) is a globally recognized standardized test that measures English language proficiency for academic and professional purposes. My score demonstrates my ability to understand and use English effectively in university-level settings and professional environments.
+* **Overall Score:** [Your Overall Score, e.g., 105/120]
+* **Verification:**
+    * [View Score Report (PDF)](Language-Proficiency/TOEFL/TOEFL-Score-Report-[TCHOUAMO RYAN]-[MAY 2025].pdf) *(Make sure this file exists)*
+    * [Score Verification Details](Language-Proficiency/TOEFL/TOEFL-Verification-Information.md) *(Provides details for official verification via ETS)*
+
 ---
 
 ## Why a Public Repository?
