@@ -45,15 +45,6 @@ This repository serves as a centralized and verifiable showcase of my completed 
     * [View Score Report (PDF)](Language-Proficiency/TOEFL/TOEFL-Score-Report-[TCHOUAMO RYAN]-[MAY 2025].pdf) *(Make sure this file exists)*
     * [Score Verification Details](Language-Proficiency/TOEFL/TOEFL-Verification-Information.md) *(Provides details for official verification via ETS)*
 
----
-
-## Why a Public Repository?
-
-* **Transparency & Verifiability:** Provides direct links to my official digital badges on Credly, allowing quick and reliable verification of my credentials.
-* **Showcase of Commitment:** Demonstrates proactive learning, practical skill development, and dedication to professional growth in the IT and networking fields.
-* **Centralized Access:** Offers a single point of reference for all my key Cisco Networking Academy achievements.
-
----
 
 ## Contact
 
